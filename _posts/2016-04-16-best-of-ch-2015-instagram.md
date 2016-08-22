@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-22T20:43:32.446Z'
+datePublished: '2016-08-22T20:49:03.330Z'
 sourcePath: _posts/2016-04-16-best-of-ch-2015-instagram.md
 inFeed: true
 isBasedOnUrl: 'http://www.coolhunting.com/culture/best-of-ch-2015-instagram'
@@ -17,24 +17,18 @@ keywords:
   - biennale
 related: []
 author: []
-dateModified: '2016-08-22T20:43:31.838Z'
-title: 'Best of CH 2015: Instagram'
+via: {}
+dateModified: '2016-08-22T20:49:02.796Z'
+title: ''
 app_links: []
-publisher:
-  url: 'http://www.coolhunting.com'
-  name: Cool Hunting
-  favicon: 'http://assets.coolhunting.com/favicon.ico'
-  domain: www.coolhunting.com
-description: >-
-  Four and a half years ago we joined Instagram and have posted over 2,500
-  images since. More than 99% of the photographs we share, we ourselves have
-  taken, and that's something we're quite proud of.
+publisher: {}
+description: ''
 inLanguage: en
 inNav: false
-via: {}
 starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Best of CH 2015: Instagram</h1><p>Four and a half years ago we joined Instagram and have posted over 2,500 images since. More than 99% of the photographs we share, we ourselves have taken, and that's something we're quite proud of.</p><img src="http://assets.coolhunting.com/coolhunting/2015/12/21/large_Best-of-CH-2015-Instagram.jpg" /></article>
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c8102649-0ed4-4030-851f-a62ed3ee8e65.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b4998de0-6e22-481d-b639-f56cee190856.jpg)
