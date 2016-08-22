@@ -1,0 +1,14 @@
+layout_spectrum: 0.6165860511828214
+typography_spectrum: 0.9455201921518892
+color:
+  brandStrength: 0.7305138316005468
+  lightness: 0.16191198653541505
+  saturation: 0.4565077305305749
+  rhythmicContrast: 0.68893225886859
+  brandColors:
+    - '#FFFFFF'
+    - '#0080C2'
+    - '#FF6B00'
+    - '#FFBE8F'
+    - '#69A7FD'
+name: Pool Global
