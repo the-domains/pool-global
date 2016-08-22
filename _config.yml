@@ -1,4 +1,3 @@
-layout_spectrum: 0.6165860511828214
 typography_spectrum: 0.9455201921518892
 color:
   brandStrength: 0.7305138316005468
@@ -11,4 +10,8 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
+layout_spectrum: 0.6165860511828214
 name: Pool Global
+title: >-
+  Empreendedorismo não é sobre construir uma grande empresa, é sobre construir
+  uma grande vida.
